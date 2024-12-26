@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:id="@+id/app_activity_main_button"
+    android:background="@drawable/button_main_menu_big"
+    android:layout_marginEnd="10dp"
+    android:layout_marginStart="10dp"
+    android:orientation="vertical"
+    android:clickable="true">
+
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:id="@+id/recommendation_button_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        style="@style/Button_Title"/>
+
+    <View
+        android:id="@+id/spacerLine"
+        android:layout_height="2dp"
+        android:background="@color/colorBlack"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/recommendation_button_title"
+    />
+
+    <TextView
+        android:id="@+id/buttonDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/Button_Bottom"
+        android:padding="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/spacerLine"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

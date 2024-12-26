@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FinalProjectSunday.iml" filepath="$PROJECT_DIR$/.idea/modules/FinalProjectSunday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FinalProjectSunday.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FinalProjectSunday.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FinalProjectSunday.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FinalProjectSunday.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FinalProjectSunday.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FinalProjectSunday.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FinalProjectSunday.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FinalProjectSunday.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_interpreter/FinalProjectSunday.lib_interpreter.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_interpreter/FinalProjectSunday.lib_interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_interpreter/FinalProjectSunday.lib_interpreter.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_interpreter/FinalProjectSunday.lib_interpreter.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_interpreter/FinalProjectSunday.lib_interpreter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_interpreter/FinalProjectSunday.lib_interpreter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_interpreter/FinalProjectSunday.lib_interpreter.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_interpreter/FinalProjectSunday.lib_interpreter.unitTest.iml" />
+    </modules>
+  </component>
+</project>
